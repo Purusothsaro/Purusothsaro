@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Purusothsaro
+- 👋 Hi, I’m @Purusothaman
 - 👀 I’m interested in java
 - 🌱 I’m currently learning Fullstack java 
 - 💞️ I’m looking to collaborate on any IT feild 
